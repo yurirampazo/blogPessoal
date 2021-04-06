@@ -2,7 +2,6 @@ package org.generation.blogPessoal.security;
 
 
 import java.util.Optional;
-
 import org.generation.blogPessoal.model.Usuario;
 import org.generation.blogPessoal.repository.UsuarioRepository;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -23,7 +22,7 @@ public class UserDetailsServiceImpl implements UserDetailsService {
 		Optional<Usuario> user = userRepository.findByUsuario(userName);
 		user.orElseThrow(() -> new UsernameNotFoundException(userName + "Not Found."));
 		
-		return user.map(UserDetailsServiceImpl)
+		return user.map(UserDetailsImpl::new).get();
 	}
 
 }
