@@ -53,6 +53,7 @@ Este projeto é divido em duas partes:
 ## ❗  Pré-requisitos
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
+
 Sistema de controle de versões -> Sugestão: [Git](https://git-scm.com). 
 Ambiente de desenvolvimento integrado -> Sugestão: [VSCode](https://code.visualstudio.com/) ou [Eclipse](https://www.eclipse.org/downloads/).
 Plataforma de testes para API -> Sugestão: [Postman](https://www.postman.com/). 
