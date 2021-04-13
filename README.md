@@ -43,6 +43,59 @@
 
 
 ---
+## 🚀 Como executar o projeto
+
+Este projeto é divido em duas partes:
+1. Backend (pasta BackEnd) 
+2. Frontend (ainda em desenvolvimento)
+
+
+## ❗  Pré-requisitos
+
+Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
+Sistema de controle de versões -> Sugestão: [Git](https://git-scm.com). 
+Ambiente de desenvolvimento integrado -> Sugestão: [VSCode](https://code.visualstudio.com/) ou [Eclipse](https://www.eclipse.org/downloads/).
+Plataforma de testes para API -> Sugestão: [Postman](https://www.postman.com/). 
+Sistema de Gerenciamento de Banco de dados -> Sugestão: [MySql](https://www.mysql.com/)
+
+
+## 🎲 Rodando o Back End (servidor)
+
+```bash
+
+# Clone este repositório
+$ git clone https://github.com/yurirampazo/blogPessoal.git
+
+# Acesse a pasta do projeto no terminal (cmd ou git bash).
+$ cd blogPessoal
+
+# Instale as dependências 
+$ pelo site https://start.spring.io/
+$ Ou compare pela pasta https://github.com/yurirampazo/blogPessoal/blob/main/blogPessoal/blogPessoal/pom.xml
+
+# Altere as informações; usuário e senha referentes a conexão do seu banco de dados são necessários. Altere-os em:
+$ application.properties
+
+# Execute a aplicação pelo Application.java
+$ run as Java Application
+
+#Dicas importantes
+$ Veja se a tabela foi criada no Banco de Dados e insira algumas informações
+
+# O servidor inciará na porta configurada pelo banco de dados: acesse http://localhost:<número da porta>
+$ pelo Postman. 
+$ Nessa aplicação foi utilizada a porta 8080, logo: http://localhost:8080
+
+# O status 2xx indica sucesso!
+# O status 4xx indica que existe um erro do usuário!
+# O status 5xx indica que existe um erro no servidor!
+```
+## 🛠 Tecnologias
+
+As seguintes ferramentas foram usadas na construção do projeto:
+
+- [Spring Boot](https://start.spring.io/)
+- [Swagger](https://swagger.io/)
 
 ## 👨‍💻 Contribuidores
 
