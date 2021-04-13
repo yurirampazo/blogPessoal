@@ -46,7 +46,7 @@
 
 ## 👨‍💻 Contribuidores
 
-Muito obrigado pelos aprendizado, sem vocês não teria conseguido. 
+Muito obrigado pelo aprendizado, sem vocês não teria conseguido. 
 
 <table>
   <tr>
