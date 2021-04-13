@@ -1,10 +1,12 @@
-<h1 align="center">: Blog Pessoal</h1>
+<h1 align="center"> Blog Pessoal</h1>
 
 
 <h4 align="center"> 
   STATUS:  Em construção...  🚧
 </h4>
 
+
+---
 
 [![GitHub issues](https://img.shields.io/github/issues/yurirampazo/blogPessoal?logo=GitHub)](https://github.com/yurirampazo/blogPessoal/issues)
 [![GitHub license](https://img.shields.io/github/license/yurirampazo/blogPessoal?color=3&logo=Github)](https://github.com/yurirampazo/blogPessoal)
@@ -13,6 +15,8 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/yurirampazo/blogPessoal)
 
 
+---
+
 ## 📄 Sobre o Projeto
 <p align="center"> 
 	 Blog Pessoal desenvolvido para conectar as pessoas através de texto (diarios) e fotos,
@@ -20,10 +24,25 @@
 </p>
 
 
+---
+
 ### Features
 
-- [x] Cadastro de usuário
+ [x] Empresas ou usarios podem se cadastrar na plataforma web enviando:
+	- nome do usuario, email e senha.
+- [x] Efetuar Login com chave de Segurança.
+- [x] Publicar postagens.
+- [x] Atualizar e Deletar as postagens.
+- [x] Filtrar pesquisas pelo:
+	- titulo e ordem de postagem. 
+- [x] Pode postar com categorias relacionadas.
+	- Network
+	- Curiosidades
+	- Dicas
+	- Etc. 
 
+
+---
 
 ## 👨‍💻 Contribuidores
 
@@ -40,6 +59,7 @@ Muito obrigado pelos aprendizado, sem vocês não teria conseguido.
 
 
 ### Autor
+
 ---
 
 <a href="https://app.rocketseat.com.br/me/yuri-mina-rampazo-09585">
