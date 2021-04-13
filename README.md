@@ -43,7 +43,7 @@ Muito obrigado pelos aprendizado, sem vocês não teria conseguido.
 ---
 
 <a href="https://app.rocketseat.com.br/me/yuri-mina-rampazo-09585">
- <img style="border-radius: 50%;" src="https://avatars3.githubusercontent.com/u/380327?s=460&u=61b426b901b8fe02e12019b1fdb67bf0072d4f00&v=4" width="100px;" alt=""/>
+ <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/78765799?s=400&u=f8a41d23588843f2686ec6dec0c6a588843d851e&v=4" width="100px;" alt=""/>
  <br />
  <sub><b>Yuri Rampazo</b></sub>
 
