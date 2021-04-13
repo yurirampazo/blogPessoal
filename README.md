@@ -28,7 +28,7 @@
 
 ### Features
 
- [x] Empresas ou usarios podem se cadastrar na plataforma web enviando:
+- [x] Empresas ou usarios podem se cadastrar na plataforma web enviando:
 	- nome do usuario, email e senha.
 - [x] Efetuar Login com chave de Segurança.
 - [x] Publicar postagens.
