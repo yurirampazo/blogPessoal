@@ -6,10 +6,29 @@ public class UserLogin {
 		
 		private String usuario;
 		
-		
 		private String senha;
 		
 		private String token;
+		
+		private String foto;
+
+		private String tipo;
+		
+		public String getFoto() {
+			return foto;
+		}
+
+		public void setFoto(String foto) {
+			this.foto = foto;
+		}
+
+		public String getTipo() {
+			return tipo;
+		}
+
+		public void setTipo(String tipo) {
+			this.tipo = tipo;
+		}
 
 		public String getNome() {
 			return nome;
