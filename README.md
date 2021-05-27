@@ -128,4 +128,4 @@ Muito obrigado pelo aprendizado, sem vocês não teria conseguido.
 👋🏽 Entre em contato!
 
 [![Linkedin Badge](https://img.shields.io/badge/-Yuri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yurimrampazo/)](https://www.linkedin.com/in/yurimrampazo/) 
-[![Gmail Badge](https://img.shields.io/badge/-rampazo.yu@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rampazo.yu@gmail.com)](mailto:yuri.rampazo@outlook.com)
+[![Gmail Badge](https://img.shields.io/badge/-ymrampazo@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ymrampazo@gmail.com)](mailto:ymrampazo@gmail.com)
